@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">chportal</string>
+    <string name="title_activity_home">Map</string>
+    <string name="string">this is conatc</string>
+    <string name="CutomToastString">Please upload your profile Image</string>
+</resources>

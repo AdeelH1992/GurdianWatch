@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "69582996003",
+    "firebase_url": "https://childprotection-f1246.firebaseio.com",
+    "project_id": "childprotection-f1246",
+    "storage_bucket": "childprotection-f1246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69582996003:android:8d98840afc7de034",
+        "android_client_info": {
+          "package_name": "com.example.lenovossd.gurdianwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69582996003-1heclfauttonj0i9ak0up21n9b6s824m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovossd.gurdianwatch",
+            "certificate_hash": "a3252f16266433b157cfd6a8cd856d083680c1b5"
+          }
+        },
+        {
+          "client_id": "69582996003-du7abb1i9m4tkteh0f5lrcj27k380pq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7681wBeReFyt7JwLpd0jLugNrk4XCFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69582996003-du7abb1i9m4tkteh0f5lrcj27k380pq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69582996003:android:87aaa438403600fe",
+        "android_client_info": {
+          "package_name": "com.example.lenovossd.intentservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69582996003-qtmngln6afrqqjl14h754jtjhntfp3oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovossd.intentservice",
+            "certificate_hash": "a3252f16266433b157cfd6a8cd856d083680c1b5"
+          }
+        },
+        {
+          "client_id": "69582996003-du7abb1i9m4tkteh0f5lrcj27k380pq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7681wBeReFyt7JwLpd0jLugNrk4XCFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69582996003-du7abb1i9m4tkteh0f5lrcj27k380pq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
